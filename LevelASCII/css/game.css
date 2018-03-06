@@ -1,0 +1,12 @@
+.background    { background: url('file:///C:/Users/Leigh/Desktop/LevelASCII/lvlBackground.jpg');
+                 table-layout: fixed;
+                 border-spacing: 0;
+               background-size: contain;  }
+.background td { padding: 0;          }
+.lava          { background: rgb(255, 100, 100); }
+.wall          { background:black;   }
+.floater {background:#1a1a1a;}
+
+.game {
+  position: relative;
+}
